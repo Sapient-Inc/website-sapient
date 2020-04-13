@@ -1,3 +1,27 @@
 .headers{
     background-color: red;
 }
+.u-container{
+    margin: auto;
+    background-color: #f3f3f3;
+    position: relative;
+    border: 1px #777 solid;
+    text-align: justify;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 100%;
+    height: 10%;
+
+}
+.c-footer{
+        margin: auto;
+        background-color: #f3f3f3;
+        position: relative;
+        padding: 0;
+        outline: 0;
+        border: 1px #777 solid;
+        text-align: justify;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        width: 100%;
+        height: 10%;
+
+}
